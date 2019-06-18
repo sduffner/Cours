@@ -23,6 +23,7 @@ nav ul {
   float: left;
   margin-top: 25px;
 }
+
 h1{
   font-family: 'Roboto', sans-serif;
   color:  #41A3C0; 
@@ -54,7 +55,7 @@ a {
 
 #logo{
   color: rgb(225, 0, 152);
-  font-size: 35px;
+  font-size: 35px;  
   font-family: 'Pacifico', cursive;
   float: left;
   margin-left: 50px;
@@ -62,7 +63,7 @@ a {
 
 /* Mis en forme de la baseline */
 #baseline{
-  background-color: #41A3C0;
+  background-image: url(https://data.whicdn.com/images/311203557/original.jpg?t=1524487415);
   text-align: center;
   background-size: cover;
   padding: 150px;
@@ -99,4 +100,8 @@ a {
   display:flex;
   flex-wrap: wrap;
   justify-content: center;
+}
+
+.red{
+  color: #850606;
 }
